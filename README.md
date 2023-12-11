@@ -9,3 +9,5 @@ Exploring prompts circumventing LLM censorship.
 ## Perspectives
 
 [Archetype (ACT)](https://github.com/1arry1iu/archetype) | [Alpha (α)](https://github.com/1arry1iu/alpha)
+
+![](https://github.com/1arry1iu/hack/blob/main/H_Avatar.png)
