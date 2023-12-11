@@ -1,10 +1,10 @@
-# Hack (H-0.2)
+# Hack (H-0.3)
 
 Exploring prompts circumventing LLM censorship.
 
 ## Opinions
 
-[Connotation (CON-0.2)](https://chat.openai.com/share/6145ed33-fb80-4205-a23e-be126f783d17)
+[Connotation (CON-0.2)](https://chat.openai.com/share/62e1c12f-fd10-4543-9e73-8dfe4ef3f19d)
 
 ## Perspectives
 
