@@ -4,7 +4,7 @@ Exploring prompts circumventing LLM censorship.
 
 ## Opinions
 
-[Connotation (CON-0.3)](https://chat.openai.com/share/62e1c12f-fd10-4543-9e73-8dfe4ef3f19d)
+[Connotation (CON)](https://chat.openai.com/share/62e1c12f-fd10-4543-9e73-8dfe4ef3f19d)
 
 ## Perspectives
 
