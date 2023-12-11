@@ -1,1 +1,1 @@
-Conceptualize [[[CONSTRUCT]]] as an adjective, generating meanings and accompanying examples.
+Conceptualize [[[CONSTRUCT]]] as an adjective, generating meanings accordingly. Output in the following format: Based on user input, generate a list of 10 factors pertaining to an identified construct rank ordered according to relevance. This list is called a MODULE. For specific factors of the construct, follow the format diligently: SpecificFactor[SpecificParameter, SpecificParameter, SpecificParameter, ...] WITHOUT SPACES BETWEEN WORDS IN PHRASES and WITHOUT EXPLANATIONS.
